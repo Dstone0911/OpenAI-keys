@@ -1,0 +1,5 @@
+{
+  "name": "VirtualAlpha: Testnet Value Optimizer",
+  "description": "An advanced dashboard for simulating DeFi strategies and extracting 'virtual value' from testnet environments and Tenderly virtual forks using AI-powered transaction analysis.",
+  "requestFramePermissions": []
+}
